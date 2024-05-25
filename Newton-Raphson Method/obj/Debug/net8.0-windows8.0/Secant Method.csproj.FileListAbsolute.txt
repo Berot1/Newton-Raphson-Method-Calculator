@@ -1,0 +1,14 @@
+C:\Users\Gil Bernard\source\repos\Secant Method\Secant Method\bin\Debug\net8.0-windows8.0\Secant Method.exe
+C:\Users\Gil Bernard\source\repos\Secant Method\Secant Method\bin\Debug\net8.0-windows8.0\Secant Method.deps.json
+C:\Users\Gil Bernard\source\repos\Secant Method\Secant Method\bin\Debug\net8.0-windows8.0\Secant Method.runtimeconfig.json
+C:\Users\Gil Bernard\source\repos\Secant Method\Secant Method\bin\Debug\net8.0-windows8.0\Secant Method.dll
+C:\Users\Gil Bernard\source\repos\Secant Method\Secant Method\bin\Debug\net8.0-windows8.0\Secant Method.pdb
+C:\Users\Gil Bernard\source\repos\Secant Method\Secant Method\obj\Debug\net8.0-windows8.0\Secant Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gil Bernard\source\repos\Secant Method\Secant Method\obj\Debug\net8.0-windows8.0\Secant Method.AssemblyInfoInputs.cache
+C:\Users\Gil Bernard\source\repos\Secant Method\Secant Method\obj\Debug\net8.0-windows8.0\Secant Method.AssemblyInfo.cs
+C:\Users\Gil Bernard\source\repos\Secant Method\Secant Method\obj\Debug\net8.0-windows8.0\Secant Method.csproj.CoreCompileInputs.cache
+C:\Users\Gil Bernard\source\repos\Secant Method\Secant Method\obj\Debug\net8.0-windows8.0\Secant Method.dll
+C:\Users\Gil Bernard\source\repos\Secant Method\Secant Method\obj\Debug\net8.0-windows8.0\refint\Secant Method.dll
+C:\Users\Gil Bernard\source\repos\Secant Method\Secant Method\obj\Debug\net8.0-windows8.0\Secant Method.pdb
+C:\Users\Gil Bernard\source\repos\Secant Method\Secant Method\obj\Debug\net8.0-windows8.0\Secant Method.genruntimeconfig.cache
+C:\Users\Gil Bernard\source\repos\Secant Method\Secant Method\obj\Debug\net8.0-windows8.0\ref\Secant Method.dll
